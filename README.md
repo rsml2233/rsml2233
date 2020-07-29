@@ -1,5 +1,3 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rsml2233)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi there 👋
 
 <!--
@@ -16,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rsml2233&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsml2233)](https://github.com/anuraghazra/github-readme-stats)
