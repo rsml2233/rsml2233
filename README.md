@@ -1,3 +1,5 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rsml2233)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 
 <!--
